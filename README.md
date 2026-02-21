@@ -23,7 +23,7 @@ The objective of this system is to:
 * Enforce encapsulation using private fields and validated public properties
 * Implement polymorphism for unique temperature thresholds and alarm behavior
 * Use an interface (IAlertable) for mandatory alarm functionality
-* Handle exceptions such as invalid operations—including open-door events exceeding 30 seconds
+* Handle exceptions such as invalid operations including open-door events exceeding 30 seconds
 * Produce real-time diagnostic output indicating system health and alarm status
 
 # Object-Oriented Programming
